@@ -17,15 +17,15 @@ li{
 }
 
 a {
-    color: black
+    color: black;
 }
 
 a:hover{
-    color:red
+    color: red;
 }
 
 #list{
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 #t-ps{
